@@ -1,0 +1,23 @@
+{
+  "name": "chai-mocha-practice",
+  "version": "1.0.0",
+  "description": "basic program to practice mocha and chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jwing28/chai-mocha-practice.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jwing28/chai-mocha-practice/issues"
+  },
+  "homepage": "https://github.com/Jwing28/chai-mocha-practice#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
