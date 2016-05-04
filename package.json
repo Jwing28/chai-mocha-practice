@@ -12,6 +12,7 @@
   },
   "author": "",
   "license": "MIT",
+  "private": true,
   "bugs": {
     "url": "https://github.com/Jwing28/chai-mocha-practice/issues"
   },
